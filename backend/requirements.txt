@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+websockets
+zeroconf
+aiohttp
+python-multipart
