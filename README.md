@@ -12,6 +12,7 @@
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
 </pre>
 </div>
+
 **Local-first peer-to-peer file sharing, chat, and collaboration**
 
 <br/>
